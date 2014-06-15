@@ -3,5 +3,5 @@
 Learning Rails
 ==
 
-Learninf Rails with a tutorial from the RAilsApps project.
+Learning Rails with a tutorial from the RAils Apps project.
 
